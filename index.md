@@ -1,5 +1,9 @@
 # Header Level 1
 
+- [x] Make a Github Account
+- [ ] Learn to use it
+- [ ] Profit!
+
 ## Header Level 2
 
 ```
